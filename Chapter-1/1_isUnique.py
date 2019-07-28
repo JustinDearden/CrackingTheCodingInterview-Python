@@ -1,4 +1,7 @@
 # O(N)
+# Implement an algorithm to determine if a string hass all unique characters.
+# What if you cannot use an additional data structure?
+
 import unittest
 
 
